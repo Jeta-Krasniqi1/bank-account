@@ -37,8 +37,8 @@ You have 4950.0 dollars in your Bank Account
 Installation & Running
 1. Clone the repository:
 ```sh
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/Jeta-Krasniqi1/bank-account.git
+cd bank-account
 ```
 2. Compile the Java program:
 ```sh
