@@ -10,7 +10,7 @@ Withdraw money from the account (with validation to prevent overdrafts).
 Read user commands via GUI input prompts.
 Convert monetary values to cents for accuracy.
 
-### Technologies Used
+### Technologies Used:
 
 Java
 Swing (JOptionPane)
