@@ -1,6 +1,5 @@
 # bank-account
 # Bank Account Management System
-![License](https://img.shields.io/github/license/Jeta-Krasniqi1/bank-account)
 
 A simple ATM application that allows users to manage their bank accounts through a graphical user interface (GUI) using JOptionPane dialogs.
 
