@@ -2,7 +2,7 @@
 # A simple ATM 
 ## Bank account management system that allows users to deposit, withdraw, and check their balance using a graphical user interface (GUI) with JOptionPane dialogs.
 
-### Features:
+### Features:                                                                  
 
 Initialize an account with a starting balance.
 Deposit money into the account.
