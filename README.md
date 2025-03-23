@@ -1,40 +1,38 @@
 # bank-account
-# A simple ATM 
-## Bank account management system that allows users to deposit, withdraw, and check their balance using a graphical user interface (GUI) with JOptionPane dialogs.
+# Bank Account Management System
+![License](https://img.shields.io/github/license/Jeta-Krasniqi1/bank-account)
 
-### Features:                                                                  
+A simple ATM application that allows users to manage their bank accounts through a graphical user interface (GUI) using JOptionPane dialogs.
 
-Initialize an account with a starting balance.
-Deposit money into the account.
-Withdraw money from the account (with validation to prevent overdrafts).
-Read user commands via GUI input prompts.
-Convert monetary values to cents for accuracy.
+## Features:
+- Initialize an account with a starting balance.
+- Deposit money into the account.
+- Withdraw money from the account (with validation to prevent overdrafts).
+- Read user commands via GUI input prompts.
+- Convert monetary values to cents for accuracy.
 
-### Technologies Used:
+## Technologies Used:
+- Java
+- Swing (JOptionPane)
 
-Java
-Swing (JOptionPane)
+## How to Use:
+1. Compile and run the Java program.
+2. Follow the on-screen prompts to deposit or withdraw money.
+3. Invalid inputs will show an error message.
+4. The final balance is displayed after transactions.
 
-### How to Use:
-
-Compile and run the Java program.
-Follow the on-screen prompts to:w $3000.
-Invalid inputs will show an error message.
-
-2. The final balance is displayed after transactions.
-
-##Example Usage in My_bankaccount test class
-Sample Input
+## Example Usage:
+### Sample Input
 ```sh
 D 5000
 W 3000
-W 20000  # This should fail if balance is insufficient.
+W 20000  # This should fail if the balance is insufficient.
 ```
 Expected Output
 ```sh
 You have 4950.0 dollars in your Bank Account
 ```
-Installation & Running
+## Installation & Running :
 1. Clone the repository:
 ```sh
 git clone https://github.com/Jeta-Krasniqi1/bank-account.git
@@ -48,4 +46,8 @@ javac BankAccount.java
 ```sh
 java BankAccount
 ```
-   
+## Contribution:
+### Contributions are welcome! Please open an issue or submit a pull request for any improvements or features you would like to add.
+
+## License:
+### This project is licensed under the MIT License. See the LICENSE file for details.
