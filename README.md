@@ -5,7 +5,7 @@ A simple ATM application that allows users to manage their bank accounts through
 
 ## Features:
 - Initialize an account with a starting balance.
-- Deposit money into the account.  
+- Deposit money into the account.              
 - Withdraw money from the account (with validation to prevent overdrafts).
 - Read user commands via GUI input prompts.
 - Convert monetary values to cents for accuracy.
