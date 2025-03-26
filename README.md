@@ -11,7 +11,7 @@ A simple ATM application that allows users to manage their bank accounts through
 - Convert monetary values to cents for accuracy.
 
 ## Technologies Used:
-- Java
+- Java                      
 - Swing (JOptionPane)
 
 ## How to Use:
