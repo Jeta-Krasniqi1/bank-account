@@ -12,7 +12,7 @@ A simple ATM application that allows users to manage their bank accounts through
 
 ## Technologies Used:
 - Java                      
-- Swing (JOptionPane)                      
+- Swing (JOptionPane)                                               
 
 ## How to Use:
 1. Compile and run the Java program.
